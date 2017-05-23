@@ -4,7 +4,7 @@ A course that introduces undergraduate students to digital history as a way to i
 
 ## CDIL Summer Workshop Goals
 
-Build Digital Toolkit
+### Build Digital Toolkit
 
 List:
 
