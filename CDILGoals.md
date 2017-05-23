@@ -6,7 +6,7 @@ A course that introduces undergraduate students to digital history as a way to i
 
 ### Build Digital Toolkit
 
-List:
+Topics:
 
 - topic modeling
 - spatial tools
