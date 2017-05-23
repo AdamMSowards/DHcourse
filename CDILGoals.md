@@ -8,10 +8,10 @@ Build Digital Toolkit
 
 List:
 
--topic modeling
--spatial tools
--data visualization
--other good ideas that occur to me with input from others
+- topic modeling
+- spatial tools
+- data visualization
+- other good ideas that occur to me with input from others
 
 Find:
 
